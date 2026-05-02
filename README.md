@@ -6,7 +6,8 @@ Data Cleaning and Exploratory Data Analysis was done and an interactive dashboar
 This dashboard delivers insights into customer sentiment, engagement patterns, and platform performance, enabling businesses to optimize communication strategies and enhance customer experience
 
 Power Bi dashboard is displayed below
-<img width="750" height="414" alt="image" src="https://github.com/user-attachments/assets/a31fea2f-b606-457c-bc31-f06b4a665c34" />
+<img width="760" height="416" alt="image" src="https://github.com/user-attachments/assets/607fd7e2-0fd7-4c2f-ab39-b2d1fa998d77" />
+
 
 **Key Insights**
 
